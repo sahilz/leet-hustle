@@ -6,11 +6,13 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
@@ -20,6 +22,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Array
@@ -51,4 +54,8 @@
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sahilz/leet-hustle/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
