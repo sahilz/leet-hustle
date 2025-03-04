@@ -16,24 +16,26 @@
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> res = new ArrayList<>();
-        helper(root, "", res);
+        helper(root, new StringBuilder(), res);
         return res;
     }
 
-    private void helper(TreeNode node, String path, List<String> res) {
+    private void helper(TreeNode node, StringBuilder sb, List<String> res) {
         // base case
         if(node == null) return;
+        int len = sb.length();
         // add current node to path
-        path += node.val;
+        sb.append(node.val);
         //check if leaf node and add path to result
         // else call recursion
         if(isLeaf(node)) {
-            res.add(path);
+            res.add(sb.toString());
         } else {
-            path += "->";
-            helper(node.left, path, res);
-            helper(node.right, path, res);
+            sb.append("->");
+            helper(node.left, sb, res);
+            helper(node.right, sb, res);
         }
+        sb.setLength(len);
     }
 
     private boolean isLeaf(TreeNode node) {
