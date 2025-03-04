@@ -9,12 +9,14 @@
 | [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -25,6 +27,7 @@
 | [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -58,4 +61,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
