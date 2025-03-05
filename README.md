@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sahilz/leet-hustle/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sahilz/leet-hustle/tree/master/2649-count-total-number-of-colored-cells) |
 ## Binary Search Tree
@@ -70,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
