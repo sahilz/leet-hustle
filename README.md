@@ -73,9 +73,18 @@
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/sahilz/leet-hustle/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
