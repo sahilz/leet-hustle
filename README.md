@@ -11,6 +11,7 @@
 | [0113-path-sum-ii](https://github.com/sahilz/leet-hustle/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,10 +20,12 @@
 | [0113-path-sum-ii](https://github.com/sahilz/leet-hustle/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -31,6 +34,7 @@
 | [0113-path-sum-ii](https://github.com/sahilz/leet-hustle/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
