@@ -7,7 +7,6 @@ class Solution {
                 hash[grid[i][j]]++;
             }
         }
-        System.out.println(Arrays.toString(hash));
         int[] res = new int[2];
         for(int i = 1; i < hash.length; i++) {
             if(hash[i] == 2) {
