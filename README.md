@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahilz/leet-hustle/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/sahilz/leet-hustle/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sahilz/leet-hustle/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahilz/leet-hustle/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/sahilz/leet-hustle/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/sahilz/leet-hustle/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/sahilz/leet-hustle/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0783-search-in-a-binary-search-tree) |
