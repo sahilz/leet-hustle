@@ -46,6 +46,7 @@
 | [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sahilz/leet-hustle/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
+| [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/sahilz/leet-hustle/tree/master/0907-koko-eating-bananas) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sahilz/leet-hustle/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
