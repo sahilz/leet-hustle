@@ -1,29 +1,18 @@
 class Solution {
     public int minimumRecolors(String blocks, int k) {
-        int res = Integer.MAX_VALUE;
-        int i = 0;
-        StringBuilder sb = new StringBuilder();
-        // generate window of k size
-        for(; i < k; i++) {
-            sb.append(blocks.charAt(i));
+        int countW = 0;
+        int res;
+        // count W
+        for (int i = 0; i < k; i++) {
+            if(blocks.charAt(i) == 'W') countW++;
         }
-        res = Math.min(res, countW(sb.toString()));
-        // iterate through remaining string
-        for(; i < blocks.length(); i++) {
-            sb.deleteCharAt(0);
-            sb.append(blocks.charAt(i));
-            res = Math.min(res, countW(sb.toString()));
+        res = countW;
+        // slide window across string
+        for(int i = k; i < blocks.length(); i++) {
+            if(blocks.charAt(i) == 'W') countW++;       // add new
+            if(blocks.charAt(i - k) == 'W') countW--;   // remove old
+            res = Math.min(res, countW);
         }
         return res;
-    }
-
-    private int countW(String s) {
-        int count = 0;
-        for(char c : s.toCharArray()) {
-            if(c == 'W') {
-                count++;
-            }
-        }
-        return count;
     }
 }
