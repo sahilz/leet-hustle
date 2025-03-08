@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahilz/leet-hustle/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sahilz/leet-hustle/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
