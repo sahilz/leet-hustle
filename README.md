@@ -57,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/sahilz/leet-hustle/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sahilz/leet-hustle/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sahilz/leet-hustle/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
@@ -102,6 +103,7 @@
 | [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
+| [1894-merge-strings-alternately](https://github.com/sahilz/leet-hustle/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilz/leet-hustle/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sahilz/leet-hustle/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
