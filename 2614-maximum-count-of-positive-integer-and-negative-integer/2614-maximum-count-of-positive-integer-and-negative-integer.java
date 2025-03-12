@@ -9,6 +9,6 @@ class Solution {
                 neg++;
             }
         }
-        return Math.max(pos, neg);
+        return pos > neg ? pos : neg;
     }
 }
