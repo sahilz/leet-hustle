@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sahilz/leet-hustle/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
 ## Monotonic Stack
 |  |
