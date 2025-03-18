@@ -78,6 +78,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/sahilz/leet-hustle/tree/master/0937-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/sahilz/leet-hustle/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sahilz/leet-hustle/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -187,8 +189,13 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/sahilz/leet-hustle/tree/master/0937-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/sahilz/leet-hustle/tree/master/3643-zero-array-transformation-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sahilz/leet-hustle/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
