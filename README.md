@@ -50,6 +50,7 @@
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/sahilz/leet-hustle/tree/master/0907-koko-eating-bananas) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sahilz/leet-hustle/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sahilz/leet-hustle/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahilz/leet-hustle/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilz/leet-hustle/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/sahilz/leet-hustle/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sahilz/leet-hustle/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
+| [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
