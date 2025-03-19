@@ -59,6 +59,7 @@
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/sahilz/leet-hustle/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sahilz/leet-hustle/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sahilz/leet-hustle/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
@@ -179,6 +180,7 @@
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilz/leet-hustle/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sahilz/leet-hustle/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sahilz/leet-hustle/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
@@ -192,6 +194,7 @@
 | [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sahilz/leet-hustle/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sahilz/leet-hustle/tree/master/3643-zero-array-transformation-ii) |
 ## Data Stream
 |  |
@@ -220,4 +224,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sahilz/leet-hustle/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
