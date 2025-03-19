@@ -90,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sahilz/leet-hustle/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sahilz/leet-hustle/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sahilz/leet-hustle/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -207,6 +208,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sahilz/leet-hustle/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/sahilz/leet-hustle/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/sahilz/leet-hustle/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/sahilz/leet-hustle/tree/master/1236-n-th-tribonacci-number) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/sahilz/leet-hustle/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sahilz/leet-hustle/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
