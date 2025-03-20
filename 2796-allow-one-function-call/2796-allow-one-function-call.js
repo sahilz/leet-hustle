@@ -9,7 +9,6 @@ var once = function(fn) {
             once = true;
             return fn(...args);
         }
-        return undefined;
     }
 };
 
