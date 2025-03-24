@@ -61,6 +61,7 @@
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/sahilz/leet-hustle/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sahilz/leet-hustle/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sahilz/leet-hustle/tree/master/3643-zero-array-transformation-ii) |
@@ -152,6 +153,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
+| [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
