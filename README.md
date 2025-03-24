@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahilz/leet-hustle/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0056-merge-intervals](https://github.com/sahilz/leet-hustle/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sahilz/leet-hustle/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/sahilz/leet-hustle/tree/master/0198-house-robber) |
@@ -147,6 +148,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sahilz/leet-hustle/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
