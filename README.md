@@ -53,6 +53,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/sahilz/leet-hustle/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/sahilz/leet-hustle/tree/master/0907-koko-eating-bananas) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sahilz/leet-hustle/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sahilz/leet-hustle/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -98,6 +100,7 @@
 | [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sahilz/leet-hustle/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sahilz/leet-hustle/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sahilz/leet-hustle/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sahilz/leet-hustle/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
@@ -152,6 +155,7 @@
 | [0056-merge-intervals](https://github.com/sahilz/leet-hustle/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 | [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
