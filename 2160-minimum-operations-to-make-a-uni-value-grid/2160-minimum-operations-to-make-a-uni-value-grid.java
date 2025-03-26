@@ -1,28 +1,27 @@
 class Solution {
     public int minOperations(int[][] grid, int x) {
-        List<Integer> values = new ArrayList<>();
-        
-        for (int[] row : grid) {
-            for (int val : row) {
-                values.add(val);
+        int m = grid.length, n = grid[0].length;
+        int tn = m * n, tc = 0;
+        int[] a = new int[tn];
+        int index = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                a[index++] = grid[i][j];
             }
         }
 
-        Collections.sort(values);
+        Arrays.sort(a);
+        int mid = tn / 2;
+        int median = a[mid];
 
-        for (int val : values) {
-            if (Math.abs(val - values.get(0)) % x != 0) {
+        for (int value : a) {
+            if (Math.abs(value - median) % x != 0) {
                 return -1;
             }
+            tc += Math.abs(value - median) / x;
         }
 
-        int median = values.get(values.size() / 2);
-        int operations = 0;
-
-        for (int val : values) {
-            operations += Math.abs(val - median) / x;
-        }
-
-        return operations;
+        return tc;
     }
 }
