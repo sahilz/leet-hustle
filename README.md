@@ -48,6 +48,7 @@
 | [0162-find-peak-element](https://github.com/sahilz/leet-hustle/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/sahilz/leet-hustle/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sahilz/leet-hustle/tree/master/0747-min-cost-climbing-stairs) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/sahilz/leet-hustle/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
@@ -201,6 +203,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 ## Bit Manipulation
@@ -229,6 +232,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/sahilz/leet-hustle/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/sahilz/leet-hustle/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/sahilz/leet-hustle/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/sahilz/leet-hustle/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
