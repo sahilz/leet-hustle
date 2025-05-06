@@ -55,6 +55,7 @@
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/sahilz/leet-hustle/tree/master/0907-koko-eating-bananas) |
 | [1656-count-good-triplets](https://github.com/sahilz/leet-hustle/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/sahilz/leet-hustle/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sahilz/leet-hustle/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sahilz/leet-hustle/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -78,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/sahilz/leet-hustle/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sahilz/leet-hustle/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sahilz/leet-hustle/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Linked List
