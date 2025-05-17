@@ -44,6 +44,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahilz/leet-hustle/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/sahilz/leet-hustle/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sahilz/leet-hustle/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sahilz/leet-hustle/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/sahilz/leet-hustle/tree/master/0198-house-robber) |
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sahilz/leet-hustle/tree/master/0075-sort-colors) |
 | [1894-merge-strings-alternately](https://github.com/sahilz/leet-hustle/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sahilz/leet-hustle/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sahilz/leet-hustle/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sahilz/leet-hustle/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sahilz/leet-hustle/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
