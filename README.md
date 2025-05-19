@@ -68,6 +68,7 @@
 | [2690-house-robber-iv](https://github.com/sahilz/leet-hustle/tree/master/2690-house-robber-iv) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/sahilz/leet-hustle/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sahilz/leet-hustle/tree/master/3483-alternating-groups-ii) |
@@ -113,6 +114,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/sahilz/leet-hustle/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sahilz/leet-hustle/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/sahilz/leet-hustle/tree/master/3321-type-of-triangle) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/2215-finding-3-digit-even-numbers) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
+| [3321-type-of-triangle](https://github.com/sahilz/leet-hustle/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
