@@ -98,6 +98,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sahilz/leet-hustle/tree/master/0937-online-stock-span) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Matrix
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1894-merge-strings-alternately](https://github.com/sahilz/leet-hustle/tree/master/1894-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sahilz/leet-hustle/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilz/leet-hustle/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sahilz/leet-hustle/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sahilz/leet-hustle/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Backtracking
@@ -153,6 +155,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sahilz/leet-hustle/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sahilz/leet-hustle/tree/master/2413-smallest-number-in-infinite-set) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sahilz/leet-hustle/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -221,6 +224,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 ## Bit Manipulation
 |  |
