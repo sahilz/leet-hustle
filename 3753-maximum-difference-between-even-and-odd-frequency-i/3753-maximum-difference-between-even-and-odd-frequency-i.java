@@ -1,18 +1,18 @@
 class Solution {
     public int maxDifference(String s) {
-        Map<Character, Integer> hm = new HashMap<>();
-        // Generate Frequency map
+        // Generate frequency map
+        int[] arr = new int[26];
+        int max = 0;
+        int min = s.length();
         for(char c : s.toCharArray()) {
-            hm.put(c, hm.getOrDefault(c, 0) + 1);
+            arr[c - 'a']++;
         }
-        // Find the max odd and min even
-        int max = Integer.MIN_VALUE;
-        int min = Integer.MAX_VALUE;
-        for(char c : hm.keySet()) {
-            if(hm.get(c) % 2 == 0) {
-                min = Math.min(min, hm.get(c));
+        // Find max odd and min even
+        for(int i : arr) {
+            if(i % 2 == 0) {
+                min = Math.min(i == 0 ? s.length() : i, min);
             } else {
-                max = Math.max(max, hm.get(c));
+                max = Math.max(max, i);
             }
         }
         return max - min;
