@@ -52,6 +52,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilz/leet-hustle/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sahilz/leet-hustle/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahilz/leet-hustle/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilz/leet-hustle/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilz/leet-hustle/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sahilz/leet-hustle/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilz/leet-hustle/tree/master/0594-longest-harmonious-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahilz/leet-hustle/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilz/leet-hustle/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
@@ -191,6 +194,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilz/leet-hustle/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilz/leet-hustle/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilz/leet-hustle/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -230,6 +234,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilz/leet-hustle/tree/master/0594-longest-harmonious-subsequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilz/leet-hustle/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/2856-count-complete-subarrays-in-an-array) |
