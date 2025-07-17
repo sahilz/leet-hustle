@@ -78,6 +78,7 @@
 | [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sahilz/leet-hustle/tree/master/3483-alternating-groups-ii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sahilz/leet-hustle/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sahilz/leet-hustle/tree/master/3643-zero-array-transformation-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -282,6 +283,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/sahilz/leet-hustle/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/sahilz/leet-hustle/tree/master/1236-n-th-tribonacci-number) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sahilz/leet-hustle/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
