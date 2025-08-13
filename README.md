@@ -122,6 +122,7 @@
 | [0002-add-two-numbers](https://github.com/sahilz/leet-hustle/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sahilz/leet-hustle/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/sahilz/leet-hustle/tree/master/0326-power-of-three) |
 | [1236-n-th-tribonacci-number](https://github.com/sahilz/leet-hustle/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sahilz/leet-hustle/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -320,5 +321,6 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahilz/leet-hustle/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/sahilz/leet-hustle/tree/master/0326-power-of-three) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
