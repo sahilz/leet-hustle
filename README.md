@@ -81,6 +81,7 @@
 | [3483-alternating-groups-ii](https://github.com/sahilz/leet-hustle/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sahilz/leet-hustle/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sahilz/leet-hustle/tree/master/3643-zero-array-transformation-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sahilz/leet-hustle/tree/master/3748-sort-matrix-by-diagonals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sahilz/leet-hustle/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 | [3321-type-of-triangle](https://github.com/sahilz/leet-hustle/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sahilz/leet-hustle/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
