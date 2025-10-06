@@ -22,11 +22,13 @@
 | [0113-path-sum-ii](https://github.com/sahilz/leet-hustle/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
+| [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sahilz/leet-hustle/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -56,6 +58,7 @@
 | [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sahilz/leet-hustle/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/sahilz/leet-hustle/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/sahilz/leet-hustle/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -115,6 +118,7 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilz/leet-hustle/tree/master/3748-sort-matrix-by-diagonals) |
@@ -142,6 +146,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/sahilz/leet-hustle/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/sahilz/leet-hustle/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilz/leet-hustle/tree/master/0783-search-in-a-binary-search-tree) |
+| [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/sahilz/leet-hustle/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilz/leet-hustle/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahilz/leet-hustle/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -218,6 +223,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/0215-kth-largest-element-in-an-array) |
+| [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilz/leet-hustle/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sahilz/leet-hustle/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sahilz/leet-hustle/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -326,4 +332,8 @@
 | [0002-add-two-numbers](https://github.com/sahilz/leet-hustle/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/sahilz/leet-hustle/tree/master/0326-power-of-three) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/3799-unique-3-digit-even-numbers) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
