@@ -61,6 +61,7 @@
 | [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/sahilz/leet-hustle/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/sahilz/leet-hustle/tree/master/0940-fruit-into-baskets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahilz/leet-hustle/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilz/leet-hustle/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/sahilz/leet-hustle/tree/master/1656-count-good-triplets) |
@@ -158,6 +159,7 @@
 | [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahilz/leet-hustle/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/sahilz/leet-hustle/tree/master/1894-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sahilz/leet-hustle/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilz/leet-hustle/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -179,6 +181,7 @@
 | [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilz/leet-hustle/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/sahilz/leet-hustle/tree/master/0940-fruit-into-baskets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahilz/leet-hustle/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilz/leet-hustle/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/2215-finding-3-digit-even-numbers) |
@@ -211,6 +214,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilz/leet-hustle/tree/master/0594-longest-harmonious-subsequence) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahilz/leet-hustle/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilz/leet-hustle/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilz/leet-hustle/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
