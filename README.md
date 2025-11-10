@@ -89,6 +89,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/sahilz/leet-hustle/tree/master/3643-zero-array-transformation-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilz/leet-hustle/tree/master/3748-sort-matrix-by-diagonals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/3799-unique-3-digit-even-numbers) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahilz/leet-hustle/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sahilz/leet-hustle/tree/master/0937-online-stock-span) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahilz/leet-hustle/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sahilz/leet-hustle/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilz/leet-hustle/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/3799-unique-3-digit-even-numbers) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahilz/leet-hustle/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
 |  |
 | ------- |
@@ -279,6 +282,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sahilz/leet-hustle/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahilz/leet-hustle/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -291,6 +295,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/sahilz/leet-hustle/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sahilz/leet-hustle/tree/master/0937-online-stock-span) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahilz/leet-hustle/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
