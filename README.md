@@ -77,6 +77,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahilz/leet-hustle/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/sahilz/leet-hustle/tree/master/2690-house-robber-iv) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sahilz/leet-hustle/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/sahilz/leet-hustle/tree/master/3321-type-of-triangle) |
@@ -141,6 +142,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/sahilz/leet-hustle/tree/master/2288-count-operations-to-obtain-zero) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sahilz/leet-hustle/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sahilz/leet-hustle/tree/master/2649-count-total-number-of-colored-cells) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sahilz/leet-hustle/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sahilz/leet-hustle/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/sahilz/leet-hustle/tree/master/3321-type-of-triangle) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/sahilz/leet-hustle/tree/master/2610-closest-prime-numbers-in-range) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sahilz/leet-hustle/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Sliding Window
 |  |
 | ------- |
