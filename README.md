@@ -174,6 +174,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilz/leet-hustle/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3396-valid-word](https://github.com/sahilz/leet-hustle/tree/master/3396-valid-word) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sahilz/leet-hustle/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sahilz/leet-hustle/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/sahilz/leet-hustle/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sahilz/leet-hustle/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -211,6 +212,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sahilz/leet-hustle/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahilz/leet-hustle/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sahilz/leet-hustle/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilz/leet-hustle/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
@@ -284,6 +286,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sahilz/leet-hustle/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sahilz/leet-hustle/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahilz/leet-hustle/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
