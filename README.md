@@ -82,6 +82,7 @@
 | [2690-house-robber-iv](https://github.com/sahilz/leet-hustle/tree/master/2690-house-robber-iv) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sahilz/leet-hustle/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sahilz/leet-hustle/tree/master/3074-apple-redistribution-into-boxes) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/sahilz/leet-hustle/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
@@ -240,6 +241,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilz/leet-hustle/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/2215-finding-3-digit-even-numbers) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sahilz/leet-hustle/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/sahilz/leet-hustle/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sahilz/leet-hustle/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sahilz/leet-hustle/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -294,6 +296,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sahilz/leet-hustle/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sahilz/leet-hustle/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sahilz/leet-hustle/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahilz/leet-hustle/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
