@@ -64,6 +64,7 @@
 | [0940-fruit-into-baskets](https://github.com/sahilz/leet-hustle/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sahilz/leet-hustle/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahilz/leet-hustle/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/sahilz/leet-hustle/tree/master/1390-four-divisors) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilz/leet-hustle/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/sahilz/leet-hustle/tree/master/1656-count-good-triplets) |
@@ -144,6 +145,7 @@
 | [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/sahilz/leet-hustle/tree/master/0326-power-of-three) |
 | [1236-n-th-tribonacci-number](https://github.com/sahilz/leet-hustle/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/sahilz/leet-hustle/tree/master/1390-four-divisors) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sahilz/leet-hustle/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sahilz/leet-hustle/tree/master/2288-count-operations-to-obtain-zero) |
