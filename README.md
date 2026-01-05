@@ -67,6 +67,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahilz/leet-hustle/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilz/leet-hustle/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/sahilz/leet-hustle/tree/master/1656-count-good-triplets) |
+| [1975-maximum-matrix-sum](https://github.com/sahilz/leet-hustle/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/sahilz/leet-hustle/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/sahilz/leet-hustle/tree/master/2054-two-best-non-overlapping-events) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/sahilz/leet-hustle/tree/master/0777-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/sahilz/leet-hustle/tree/master/0794-swim-in-rising-water) |
+| [1975-maximum-matrix-sum](https://github.com/sahilz/leet-hustle/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilz/leet-hustle/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilz/leet-hustle/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilz/leet-hustle/tree/master/3748-sort-matrix-by-diagonals) |
@@ -294,6 +296,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sahilz/leet-hustle/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahilz/leet-hustle/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1975-maximum-matrix-sum](https://github.com/sahilz/leet-hustle/tree/master/1975-maximum-matrix-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilz/leet-hustle/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/sahilz/leet-hustle/tree/master/2636-maximum-subsequence-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sahilz/leet-hustle/tree/master/3074-apple-redistribution-into-boxes) |
