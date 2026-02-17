@@ -208,6 +208,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/sahilz/leet-hustle/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/sahilz/leet-hustle/tree/master/0401-binary-watch) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahilz/leet-hustle/tree/master/0136-single-number) |
+| [0401-binary-watch](https://github.com/sahilz/leet-hustle/tree/master/0401-binary-watch) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sahilz/leet-hustle/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2478-longest-nice-subarray](https://github.com/sahilz/leet-hustle/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
