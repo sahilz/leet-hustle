@@ -193,6 +193,7 @@
 | [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sahilz/leet-hustle/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahilz/leet-hustle/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sahilz/leet-hustle/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/sahilz/leet-hustle/tree/master/1894-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sahilz/leet-hustle/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilz/leet-hustle/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
