@@ -110,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sahilz/leet-hustle/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sahilz/leet-hustle/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sahilz/leet-hustle/tree/master/0148-sort-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilz/leet-hustle/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahilz/leet-hustle/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/sahilz/leet-hustle/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilz/leet-hustle/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/sahilz/leet-hustle/tree/master/0148-sort-list) |
 ## Stack
