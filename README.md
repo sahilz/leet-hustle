@@ -110,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilz/leet-hustle/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/sahilz/leet-hustle/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sahilz/leet-hustle/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sahilz/leet-hustle/tree/master/0148-sort-list) |
@@ -190,6 +191,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilz/leet-hustle/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/sahilz/leet-hustle/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/sahilz/leet-hustle/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/sahilz/leet-hustle/tree/master/0383-ransom-note) |
@@ -403,4 +405,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahilz/leet-hustle/tree/master/0148-sort-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilz/leet-hustle/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
