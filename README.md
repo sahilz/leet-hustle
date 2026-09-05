@@ -107,6 +107,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilz/leet-hustle/tree/master/3748-sort-matrix-by-diagonals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahilz/leet-hustle/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahilz/leet-hustle/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3903-smallest-stable-index-i](https://github.com/sahilz/leet-hustle/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sahilz/leet-hustle/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -349,6 +350,7 @@
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilz/leet-hustle/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sahilz/leet-hustle/tree/master/3643-zero-array-transformation-ii) |
+| [3903-smallest-stable-index-i](https://github.com/sahilz/leet-hustle/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sahilz/leet-hustle/tree/master/3904-smallest-stable-index-ii) |
 ## Data Stream
 |  |
